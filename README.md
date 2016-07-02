@@ -1,2 +1,4 @@
 # hello-world
-Repo one
+Greetings earthlings!
+
+Learning some git here!
